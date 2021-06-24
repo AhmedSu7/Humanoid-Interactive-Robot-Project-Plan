@@ -1,6 +1,6 @@
 # Humanoid-Interactive-Robot-Project-Plan
 
-This repsitory contains the required 5 tasks for the industrial engineers.
+This repsitory contains the required 5 tasks for the industrial engineers of the first week
 
 The project subject is : humanoid interactive robot.
 
