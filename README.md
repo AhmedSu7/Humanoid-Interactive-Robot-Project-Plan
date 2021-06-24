@@ -1,8 +1,10 @@
 # Humanoid-Interactive-Robot-Project-Plan
 
-This Project plan is about making a humanoid interactive robot.
+This repsitory contains the required 5 tasks for the industrial engineers.
 
-In this plan the following parts has been described:
+The project subject is : humanoid interactive robot.
+
+In the project plan the following parts has been described:
 
 1- Project Idea
 
@@ -21,6 +23,10 @@ In this plan the following parts has been described:
 8- Project tasks, relationships and their distribution on the 4 fields of the group.
 
 
+In the Production Plan: Some steps has been described for producing the robot.
+
+
+In the project timeline: In addition to the weekends, Eid Aladha holiday has been included in the expected duration.
 
 
 #NOTE: Please note that, this plan are based on our assumptions and their are not any specific details that we have about the desired shape and specification. So we will be happy to hear any feedback and suggestions.
